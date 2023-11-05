@@ -1,0 +1,15 @@
+.tags{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width:100%;
+    gap:30px;
+    color: grey;
+}
+.tags:hover{
+    color: white;
+}
+.active {
+    font-weight: bold;
+    color: #00f;
+  }
